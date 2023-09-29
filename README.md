@@ -6,4 +6,5 @@
     <li>Java if-Else</li>
     <li>Java Stdin and Stdout II</li>
      <li>Java Loops I</li>
+    <li>Java Output Formatting</li>
 </ol>
