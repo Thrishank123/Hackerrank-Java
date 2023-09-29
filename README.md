@@ -6,5 +6,5 @@
     <li>Java if-Else</li>
     <li>Java Stdin and Stdout II</li>
      <li>Java Loops I</li>
-    <li>Java Output Formatting</li>
+    <li><a href="https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true">Java Output Formatting</a></li>
 </ol>
