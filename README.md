@@ -8,5 +8,5 @@
     <li><a href=https://hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true>Java Output Formatting</a></li>
     <li><a href=https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true>Java Loops I</a></li>
     <li><a href=https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true>Java Loops II</a></li>
-    <li><a href=https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true>Java Static Initializer Block</a></li>
+    <li><a href=https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true>Java Static Initializer Block</a></li
 </ol>
